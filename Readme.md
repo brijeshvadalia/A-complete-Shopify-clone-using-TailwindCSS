@@ -46,7 +46,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-<!-- ># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-paytm-clone.netlify.app/ "Shopify-clone-Netlify") -->
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-shopify-clone.netlify.app/ "Shopify-clone-Netlify")
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
 >![Screenshot](./screenshot/screenshot-3.png)
